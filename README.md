@@ -38,6 +38,23 @@ Spot On is an advanced, AI-assisted land suitability analysis platform. Built wi
 
 ---
 
+
+
+
+---
+## Images
+![Map Interface](screenshots/map.png)
+
+---
+
+
+## Demo
+
+Video
+https://youtu.be/9YN-82Jp1Rs
+---
+
+
 ## 📦 Installation
 
 ```bash
@@ -53,17 +70,6 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 
----
-
-
-## Demo
-Video
-https://youtu.be/9YN-82Jp1Rs
-
-
----
-## Images
-![Map Interface](screenshots/map.png)
 
 
 
