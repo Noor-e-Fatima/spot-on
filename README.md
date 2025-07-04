@@ -42,18 +42,53 @@ Spot On is an advanced, AI-assisted land suitability analysis platform. Built wi
 
 
 ---
-## Images
-![Map Interface](screenshots/map.png)
+
+### 💬 Define Criteria Using Prompt
+![Prompt Parse](screenshots/a.png)
+
+### 🧠 Identified Spatial Layers (AI Parsed)
+![Identified Criteria](screenshots/b.png)
+
+### 🗃️ Loading Spatial Data from Database
+![loading data](screenshots/c.png)
+
+### ⚙️ Analysis Result (Weighted Overlay)
+![Analysis Result](screenshots/d.png)
+
+### 🗺️ Suitability Map Output
+![Suitability Map](screenshots/e.png)
+
+### 📍 Top Suitable Locations (Ranked)
+![Suitable Locations](screenshots/f.png)
+
+### 🌐 Interactive Leaflet Map
+![Interactive Map](screenshots/g.png)
+
+### 🤖 AI-Powered Site Analysis
+![AI Analysis](screenshots/h.png)
+
+### 🏆 Top 3 Recommended Locations
+![Nearby Features](screenshots/i.png)
+
+### 🏘️ Nearby Features for Selected Site
+![Nearby Features](screenshots/j.png)
+
+### 🧭 More Nearby Features (Reverse Geocoded)
+![Nearby Features](screenshots/k.png)
+
+### 🧠 Gemini Explanation Summary
+![Explanation](screenshots/l.png)
 
 ---
 
 
-## Demo
 
-Video
-https://youtu.be/9YN-82Jp1Rs
+## 🎥 Demo Video
+
+[▶️ Watch the Demo on YouTube](https://youtu.be/9YN-82Jp1Rs)
+
 ---
-
+>
 
 ## 📦 Installation
 
